@@ -9,7 +9,7 @@
     "@material-ui/icons": "4.2.1",
     "@unform/core": "^2.0.0",
     "@unform/web": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "chartist": "0.10.1",
     "classnames": "2.2.6",
