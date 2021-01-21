@@ -14,7 +14,7 @@
     "chartist": "0.10.1",
     "classnames": "2.2.6",
     "history": "4.9.0",
-    "immer": "^6.0.3",
+    "immer": "^8.0.1",
     "material-table": "^1.67.1",
     "perfect-scrollbar": "1.4.0",
     "polished": "^3.5.1",
